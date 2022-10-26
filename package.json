@@ -1,0 +1,20 @@
+{
+  "name": "testfirebaserepo",
+  "version": "1.0.0",
+  "description": "Test repo for firebase practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraydenDunnNMIT/testfirebaserepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraydenDunnNMIT/testfirebaserepo/issues"
+  },
+  "homepage": "https://github.com/BraydenDunnNMIT/testfirebaserepo#readme"
+}
