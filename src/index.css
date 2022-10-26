@@ -1,0 +1,62 @@
+body,h1,h2 {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+body {
+    background-color: black;
+    color: wheat;
+    font-family: monospace;
+}
+
+
+
+h1 {
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+
+
+#userlist {
+    margin: 0%;
+    padding: 0%;
+    width: 150px;
+    float: left;
+    border: solid 2px white;
+}
+
+
+
+#userlist h2 {
+    padding: 10px;
+    margin: 0;
+    color: aqua;
+}
+
+
+
+#userlist li {
+    padding: 5px 10px;
+    border-top: 5px solid rebeccapurple;
+    cursor: pointer;
+    color: wheat;
+    font-style: monospace;
+}
+
+#userlist li:hover{
+background-color: red;
+}
+
+#userdetail{
+    float: left;
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid salmon;
+}
+
+

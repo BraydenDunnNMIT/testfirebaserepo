@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BraydenDunnNMIT/testfirebaserepo/issues"
   },
-  "homepage": "https://github.com/BraydenDunnNMIT/testfirebaserepo#readme"
+  "homepage": "https://github.com/BraydenDunnNMIT/testfirebaserepo#readme",
+  "dependencies": {
+    "firebase": "^9.12.1"
+  }
 }
