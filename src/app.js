@@ -1,4 +1,5 @@
 
+
 // Import the functions you need from the SDKs you need
 
 import { initializeApp } from "firebase/app";
@@ -25,3 +26,14 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 
+
+
+
+import (collection, doc); from: 'firebase/firestore'
+ const staffcollectionreference = collection(db, 'users')
+
+ const staffcol = collection(db, 'users')
+
+ const userdoc = doc(db, 'users/');
+
+ 

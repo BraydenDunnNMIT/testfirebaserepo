@@ -1,0 +1,14 @@
+{
+    "array": [{
+            "name": "demo",
+            "age": 1,
+            "dummydata": ["data", "data2", "data3"]
+        }
+
+        , {
+            "name": "anotherdemo",
+            "age": 2,
+            "dummydata": ["data", "data2", "data3"]
+        }
+    ]
+}

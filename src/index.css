@@ -39,16 +39,13 @@ h1 {
 
 
 
-#userlist li {
-    padding: 5px 10px;
-    border-top: 5px solid rebeccapurple;
+#userlist{
+    font-size: 15px;
+    padding: 20px 20px;
     cursor: pointer;
     color: wheat;
     font-style: monospace;
-}
-
-#userlist li:hover{
-background-color: red;
+    
 }
 
 #userdetail{
